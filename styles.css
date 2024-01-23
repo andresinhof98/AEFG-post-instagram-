@@ -1,0 +1,9 @@
+.post {
+    border: color(srgb rgb(12, 12, 12) );
+}
+.post-header{
+    display: flex;
+}
+.icons {
+    display: flex;
+}
